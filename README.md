@@ -6,7 +6,7 @@
 Create a basic flashcard app that lets the user toggle between the question and answer.
 
 ### App Walk-though
-<img src="https://recordit.co/VWFrj8IaNB" width=200><br>
+<img src="http://g.recordit.co/VWFrj8IaNB.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
