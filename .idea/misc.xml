@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Stace/AndroidStudioProjects/Flashcard-App/app/src/main/res/drawable/icon_add.xml" value="0.156" />
+        <entry key="..\:/Users/Stace/AndroidStudioProjects/Flashcard-App/app/src/main/res/drawable/icon_cancel.xml" value="0.156" />
+        <entry key="..\:/Users/Stace/AndroidStudioProjects/Flashcard-App/app/src/main/res/drawable/icon_save.xml" value="0.188" />
+        <entry key="..\:/Users/Stace/AndroidStudioProjects/Flashcard-App/app/src/main/res/layout/activity_add_card.xml" value="0.1796875" />
+        <entry key="..\:/Users/Stace/AndroidStudioProjects/Flashcard-App/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Stace/AndroidStudioProjects/StaceysFlashcardApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
