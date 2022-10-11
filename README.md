@@ -10,9 +10,9 @@ Create a basic flashcard app that lets the user toggle between the question and 
 <img src="http://g.recordit.co/vloI0hpjJS.gif" width=200><br>
 
 ## Required
-- [x] User sees a transition animation when going from the main screen to the add card screen.
-- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
-- [x] User sees flashcards animating in / out when the 'next' button is tapped
+- [ ] User sees a transition animation when going from the main screen to the add card screen.
+- [ ] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [ ] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
 - [ ] Extra styling is added!
@@ -30,8 +30,8 @@ Create a basic flashcard app that lets the user toggle between the question and 
 <img src="http://g.recordit.co/SYpYw1n2DB.gif" width=200><br>
 
 ## Required
-- [x] User can create a card and still see their created card when the app is relaunched.
-- [x] User can create muliple cards and browse through all created cards
+- [ ] User can create a card and still see their created card when the app is relaunched.
+- [ ] User can create muliple cards and browse through all created cards
 
 ## Optional
 - [ ] User can delete a card and no longer see it in their deck anymore
@@ -49,11 +49,11 @@ Create a basic flashcard app that lets the user toggle between the question and 
 <img src="http://g.recordit.co/GKpCNhyRLr.gif" width=200><br>
 
 ## Required
-- [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
-- [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
-- [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
-- [x] User will see the card they just created on the main screen when they press the 'Save Button'
-- [x] Push your progress to GitHub!
+- [ ] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [ ] The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- [ ] User can enter and submit a Question and Answer through the 'Add Card Screen'
+- [ ] User will see the card they just created on the main screen when they press the 'Save Button'
+- [ ] Push your progress to GitHub!
 
 ## Optional
 - [ ] User can edit a card
@@ -71,11 +71,11 @@ Create a basic flashcard app that lets the user toggle between the question and 
 <img src="http://g.recordit.co/VWFrj8IaNB.gif" width=200><br>
 
 ## Required
-- [x] Create New Project in Android Studio
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHu
+- [ ] Create New Project in Android Studio
+- [ ] Add a view for the front side of the flashcard to display the question
+- [ ] Add a view for the back side of the flashcard to display the answer
+- [ ] Build in logic to show the answer side when the card is tapped
+- [ ] Push code to GitHu
 ## Optional
 - [ ] toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
